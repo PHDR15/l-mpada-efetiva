@@ -1,1 +1,1 @@
-# l-mpada-efetiva
+# lampada-efetiva
